@@ -1,6 +1,6 @@
 {
-  "name": "Raffi S.,
-  "description": "Userbot created by  @Bomber ",
+  "name": "Raffi Saif.",
+  "description": "Userbot created by a SNAPDRAGON and custom fork by https://t.me/mrconfused contact @tele_thon for support",
   "logo": "https://telegra.ph/file/2272876562ca4120c3bf7.png",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/RaffiSaif/plus.telethon-master/",
+  "repository": "https://github.com/klanrali/plus.telethon/",
   "website": "#TODO",
   "success_url": "#TODO",
   "stack": "container",
