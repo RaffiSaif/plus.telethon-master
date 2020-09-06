@@ -1,5 +1,5 @@
 
-# thr dav klanr ali 
+# Dv raffi
 me ch @Bomber
 
 ### The Easy Way to deploy the bot
@@ -22,7 +22,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 [![catuserbot logo](https://telegra.ph/file/2272876562ca4120c3bf7.png)](https://heroku.com/deploy)
 
 
-### Join [here](https://t.me/Bomber) for updates and tuts and [here](https://t.me/klanraloosh) for discussion and bugs
+### Join [here](https://t.me/Bomber) for updates and tuts and [here](https://t.me/YQYYY) for discussion and bugs
 
 ### The Normal Way
 
